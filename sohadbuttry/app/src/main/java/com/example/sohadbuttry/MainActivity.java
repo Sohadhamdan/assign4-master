@@ -1,4 +1,4 @@
-package com.example.sohad_buttry;
+package com.example.sohadbuttry;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
